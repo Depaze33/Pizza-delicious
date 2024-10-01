@@ -1,0 +1,9 @@
+.button{
+background-color: orange;
+ align-items:right;
+}
+.button:hover{
+    background-color: rgb(1, 249, 18);
+    color: black;
+}
+
